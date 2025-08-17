@@ -1,4 +1,4 @@
-# Hi, I'm Emre Güçlü 👋
+# Hi, I'm Emre 👋
 
 **BSc in Electrical and Electronics Engineering, with specialization in Computers Area @ METU**  
 **Ethereum Protocol Researcher | Developer**  
