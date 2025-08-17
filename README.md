@@ -1,6 +1,6 @@
 # Hi, I'm Emre Güçlü 👋
 
-**Electrical & Electronics Engineer (Computers Area) @ METU**  
+**BSc in Electrical and Electronics Engineering, with specialization in Computers Area @ METU**  
 **Ethereum Protocol Researcher | Developer**  
 **Focused on MEV, PBS, Ethereum Clients & Low-Latency Infra**
 
@@ -8,12 +8,12 @@
 
 ## ⚡ Tech
 **Languages:** Rust • C • C++ • Solidity • Python • Verilog/VHDL  
-**Tools:** Foundry • Alloy • Reth  
+**Tools:** Foundry • Alloy
 
 ---
 
 ## 📈 Focus
-Low-latency/high-throughput systems for Ethereum & MEV • Block building & mempool dynamics • PBS research • Alloy-rs & Rust dev • Deep dives into DeFi internals  
+Low-latency/high-throughput systems for Ethereum & MEV • Block building & mempool dynamics • PBS research • Deep dives into DeFi internals  
 
 ---
 
