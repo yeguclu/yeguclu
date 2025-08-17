@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Emre Güçlü 👋
 
-<!--
-**yeguclu/yeguclu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Electrical & Electronics Engineer (Computers Area) @ METU**  
+**Ethereum Protocol Researcher | Developer**  
+**Focused on MEV, PBS, Ethereum Clients, and Low-Latency Infrastructure**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### **Languages**
+- **Rust**
+- **C**
+- **C++**
+- **Solidity**
+- **Python**
+- **Verilog / VHDL**
+
+### **Other Tech**
+- Open-source tooling (Foundry, Alloy, Reth)
+
+---
+
+## 📈 Current Focus
+
+- Building **low-latency, high-throughput systems** for Ethereum/MEV  
+- Exploring **block building, mempool dynamics, and PBS**  
+- Experimenting with **Alloy-rs** ans Rust development
+- Deep dive to technical internals of well-known DeFi protocols
+
+---
+
+## 🌐 Links
+
+- [Personal Website](https://yeguclu.github.io/)
+- [Twitter / X](https://x.com/yeguclu0x)  
+- [LinkedIn](https://linkedin.com/in/emreguclu)
