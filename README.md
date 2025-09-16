@@ -1,21 +1,20 @@
 # Hi, I'm Emre 👋
 
-**BSc in Electrical and Electronics Engineering, with specialization in Computers Area @ METU**  
-**Ethereum Protocol Researcher | Developer**  
+**BSc in Electrical and Electronics Engineering, with specialization in Computers Area @ METU**   
 **Focused on MEV, PBS, Ethereum Clients & Low-Latency Infra**
 
 ---
 
-## ⚡ Tech
+## Tech
 **Languages:** Rust • C • C++ • Solidity • Python • Verilog/VHDL  
 **Tools:** Foundry • Alloy
 
 ---
 
-## 📈 Focus
-Low-latency/high-throughput systems for Ethereum & MEV • Block building & mempool dynamics • PBS research • Deep dives into DeFi internals  
+## Focus
+Low-latency/high-throughput systems for Ethereum & MEV • Block building & mempool dynamics • PBS research • DeFi protocol internals  
 
 ---
 
-## 🌐 Links
+## Links
 [Website](https://yeguclu.github.io/) • [X](https://x.com/yeguclu0x) • [LinkedIn](https://linkedin.com/in/emreguclu)
